@@ -11,14 +11,14 @@ To run the code provided in this repository, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone [https://github.com/your-username/your-repo.git](https://github.com/cbharathulwar/attmech-gnn-tracking)
    cd your-repo
    ```
 
 2. **Set up the environment:**  
-   We recommend using **Micromamba** to manage your environment. Please refer to the `environment.yml` file in the repository for a list of dependencies.
+   We recommend using **Micromamba** to manage your environment. Please refer to the `default.yml` file in the repository for a list of dependencies.
    ```bash
-   micromamba env create -f environment.yml
+   micromamba env create -f default.yml
    micromamba activate your-env-name
    ```
 
