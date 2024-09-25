@@ -40,8 +40,8 @@ Ensure that the appropriate paths to trained models and datasets are specified i
 This work was heavily inspired by the amazing work done in the [gnn-tracking](https://github.com/gnn-tracking) repository. A huge thank you to their team, whose work laid the foundation for many of the techniques implemented in this research. Their dedication to advancing GNNs in particle tracking has been instrumental in the development of this project.
 
 Special thanks to the core developers of the gnn-tracking project:
-- **Gage DeZoort** ![](https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png) 
-- **Kilian Lieret** ![](https://github.githubassets.com/images/icons/emoji/unicode/26a0.png)
+- **Gage DeZoort**
+- **Kilian Lieret** 
 
 Their work in GNN particle tracking has greatly influenced the direction and methods used in this project.
 
